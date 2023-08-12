@@ -6,7 +6,6 @@
 | [VSS-SDK](https://vss-sdk.github.io/book/general.html)                                                     | Projeto opensource que auxilia equipes na construção de times de futebol de robôs              |   Criador    |
 | [C++ Boilerplate](https://github.com/johnfercher/boilerplate)                                              | Casca de projeto em C++ com: Cmake, GoogleTest, TravisCI, Docker e Shellscript                 |   Criador    |
 | [Event Certificate Gen](https://github.com/GDGPetropolis/event-certificate-gen)                            | Gerador de certificados de eventos                                                             |   Criador    |
-| [Software Development](https://johnfercher.github.io/software-development/)                                | Compilado de conteúdos relacionados a Desenvolvimento de Software                              |   Criador    |
 | [FAETERJ LaTeX Template](https://github.com/johnfercher/faeterj-latex-template)                            | Template em LaTeX para TCCs na FAETERJ-Petrópolis                                              |   Criador    |
 | [GDG/Meetup Event-Checkin](https://github.com/GDGPetropolis/compose-event-checkin)                         | Sistema de check-in em eventos baseado na API do Meetup                                        |   Criador    |
 | [awesome-go](https://github.com/avelino/awesome-go)                                                        | A curated list of awesome Go frameworks, libraries and software                                | Contribuidor |
