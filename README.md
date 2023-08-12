@@ -1,5 +1,5 @@
 # Home
 
 
-* [Português :brazil:](assets/docs/resumes/portuguese.pdf)
-* [English :us:](assets/docs/resumes/english.pdf)
+* [Português :brazil:](https://github.com/johnfercher/software/blob/main/assets/docs/resumes/portuguese.pdf)
+* [English :us:](https://github.com/johnfercher/software/blob/main/assets/docs/resumes/english.pdf)
