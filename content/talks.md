@@ -18,10 +18,9 @@
 
 ## Vídeos
 
-| Data | Título                                                                                                | Instituição |
-|------|-------------------------------------------------------------------------------------------------------|:-----------:|
-| 2017 | [Multiple Path Planning](https://www.youtube.com/watch?v=hC82QWQrvUo)                                 |     IME     |
-| 2014 | [Warthogs (USP) X SIRSoccer (FAETERJ) - LARC 2014 - IEEE Very Small Size (VSS)](https://www.youtube.com/watch?v=tOGAPF54ZKU)                                 |   FAETERJ   |
+<iframe width="560" height="560" src="https://www.youtube.com/embed/JCF_ZaydGuo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="560" src="https://www.youtube.com/embed/Gbz3Rt7BRnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Fotos
 

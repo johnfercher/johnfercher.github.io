@@ -37,6 +37,8 @@
 
 ## Vídeos
 
-| Data | Título                                                                                                | Instituição |
-|------|-------------------------------------------------------------------------------------------------------|:-----------:|
-| 2017 | [Multiple Path Planning](https://www.youtube.com/watch?v=hC82QWQrvUo)                                 |     IME     |
+<iframe width="560" height="560" src="https://www.youtube.com/embed/tOGAPF54ZKU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="560" src="https://www.youtube.com/embed/hC82QWQrvUo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="560" src="https://www.youtube.com/embed/-49vcq_C0f0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
