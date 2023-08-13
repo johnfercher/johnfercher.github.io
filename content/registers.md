@@ -1,30 +1,32 @@
 # Registros
 
 ## Vídeos
-| Título                                                                                                |
-|-------------------------------------------------------------------------------------------------------|
-| [VSS-SDK (v1.0.4) - Robot Soccer (IEEE Very Small Size)](https://www.youtube.com/watch?v=2Yo8s7w7rTE) |
-| [Multiple Path Planning](https://www.youtube.com/watch?v=hC82QWQrvUo)                                 |
+| Data | Título                                                                                                | Instituição |
+|------|-------------------------------------------------------------------------------------------------------|:-----------:|
+| 2017 | [Multiple Path Planning](https://www.youtube.com/watch?v=hC82QWQrvUo)                                 |     IME     |
+| 2016 | [VSS-SDK (v1.0.4) - Robot Soccer (IEEE Very Small Size)](https://www.youtube.com/watch?v=2Yo8s7w7rTE) |   FAETERJ   |
+| 2014 | [Warthogs (USP) X SIRSoccer (FAETERJ) - LARC 2014 - IEEE Very Small Size (VSS)](https://www.youtube.com/watch?v=tOGAPF54ZKU)                                 |   FAETERJ   |
 
 ## Fotos
 
+### 2022
 :speaking_head: Apresentação - Um projeto open-source maroto **(SyncTech - Mercado Livre, Remoto, 2022)**
 
 ![](../assets/images/melisync.jpeg ':zoom')
 
->
 
+### 2021
 :speaking_head: Apresentação - Domain-Driven Design: Uma Introdução **(MELI Tech Day - Mercado Livre, Remoto, 2021)**
 
 ![](../assets/images/melitechday.jpeg ':zoom')
 
->
+### 2020
 
 :speaking_head: Apresentação - Datadog in Taxes/TMS **(MELI Tech Day - Mercado Livre, Florianópolis, 2020)**
 
 ![](../assets/images/melitechday2.jpeg ':zoom')
 
-> 
+### 2019
 
 :speaking_head: Apresentação - Uma nova forma simples, elegante e rápida de criar PDFs em GO **(DevFest Sul - GDG, Florianópolis, 2019)**
 
@@ -42,7 +44,7 @@
 
 ![](../assets/images/campusparty.jpg ':zoom')
 
->
+### 2018
 
 :handshake: Organização - Meu Mundo Tecnológico **(GDG, Petrópolis, 2018)**
 
@@ -72,7 +74,7 @@
 
 ![](../assets/images/braspag-parallel.png ':zoom')
 
->
+### 2016
 
 :speaking_head: Apresentação - Construction of a Framework of Path Planning and Trajectory Control in Real Time of Multiple Robots **(WTDR - LARC, Recife, 2016)**
 
@@ -80,8 +82,37 @@
 
 >
 
+:computer: Engenheiro - IEEE Very Small Size Soccer - SDK **(2016)**
+
+![](../assets/images/vss-sdk.png ':zoom')
+
+>
+
+:computer: Engenheiro - IEEE Very Small Size Soccer  **(SIRLab, Petrópolis, 2016)**
+
+![](../assets/images/sirsoccer2.png ':zoom')
+
+### 2015
+
 :computer: Participação - Competição Latino Americana de Robótica  **(SIRLab - LARC, Uberlândia, 2015)**
 
 ![](../assets/images/sirlab.jpg ':zoom')
 
+### 2014
+
+:computer: Participação - Competição Latino Americana de Robótica  **(SIRLab - LARC, São Carlos, 2014)**
+
+![](../assets/images/larc2014.png ':zoom')
+
+>
+
+:computer: Participação - Competição Latino Americana de Robótica (SirSoccer)  **(SIRLab - LARC, São Carlos, 2014)**
+
+![](../assets/images/sirsoccer.png ':zoom')
+
+### 2013
+
+:computer: Participação - Competição Latino Americana de Robótica  **(SIRLab - LARC, Fortaleza, 2013)**
+
+![](../assets/images/larc2013.png ':zoom')
 
