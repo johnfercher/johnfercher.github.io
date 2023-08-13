@@ -14,3 +14,9 @@
 |     2017     | [rathena](https://github.com/rathena/rathena)                                                              | rAthena is an open-source cross-platform MMORPG server                                         | Contribuidor |   :us:   |
 |     2016     | [OpenGL sample application with imgui support](https://github.com/valera-rozuvan/opengl-sample-with-imgui) | OpenGL sample application with imgui support                                                   | Contribuidor |   :us:   |
 |     2015     | [FAETERJ LaTeX Template](https://github.com/johnfercher/faeterj-latex-template)                            | Template em LaTeX para TCCs na FAETERJ-Petrópolis                                              |   Criador    | :brazil: |
+
+## Vídeos
+
+| Data | Título                                                                                                | Instituição |
+|------|-------------------------------------------------------------------------------------------------------|:-----------:|
+| 2016 | [VSS-SDK (v1.0.4) - Robot Soccer (IEEE Very Small Size)](https://www.youtube.com/watch?v=2Yo8s7w7rTE) |   FAETERJ   |

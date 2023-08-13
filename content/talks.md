@@ -15,3 +15,69 @@
 | 01/2017 | [Construção de um Framework de Planejamento e Controle de Trajetória em Tempo Real de Múltiplos Robôs Terrestres](presentations/master-defense.pdf) |                IME - Defesa de Mestrado                | :brazil: |
 | 10/2016 | [Construction of a Framework of Path Planning and Trajectory Control in Real Time of Multiple Robots](presentations/wtdr.pdf)                       | WTDR - Workshop on Thesis and Dissertation in Robotics |   :us:   |
 | 01/2016 | [Planejamento de Trajetória em Tempo Real de Múltiplos Robôs em Ambiente Semi-Estruturado](presentations/master-qualification.pdf)                  |              IME - Qualificação Mestrado               | :brazil: |
+
+## Vídeos
+
+| Data | Título                                                                                                | Instituição |
+|------|-------------------------------------------------------------------------------------------------------|:-----------:|
+| 2017 | [Multiple Path Planning](https://www.youtube.com/watch?v=hC82QWQrvUo)                                 |     IME     |
+| 2014 | [Warthogs (USP) X SIRSoccer (FAETERJ) - LARC 2014 - IEEE Very Small Size (VSS)](https://www.youtube.com/watch?v=tOGAPF54ZKU)                                 |   FAETERJ   |
+
+## Fotos
+
+### 2022
+:speaking_head: Apresentação - Um projeto open-source maroto **(SyncTech - Mercado Livre, Remoto, 2022)**
+
+![](../assets/images/melisync.jpeg ':zoom')
+
+
+### 2021
+:speaking_head: Apresentação - Domain-Driven Design: Uma Introdução **(MELI Tech Day - Mercado Livre, Remoto, 2021)**
+
+![](../assets/images/melitechday.jpeg ':zoom')
+
+### 2020
+
+:speaking_head: Apresentação - Datadog in Taxes/TMS **(MELI Tech Day - Mercado Livre, Florianópolis, 2020)**
+
+![](../assets/images/melitechday2.jpeg ':zoom')
+
+### 2019
+
+:speaking_head: Apresentação - Uma nova forma simples, elegante e rápida de criar PDFs em GO **(DevFest Sul - GDG, Florianópolis, 2019)**
+
+![](../assets/images/devfest.jpg ':zoom')
+
+>
+
+:speaking_head: Apresentação - Criando um Time de Futebol de Robôs com Python **(TDC, Florianópolis, 2019)**
+
+![](../assets/images/tdc.jpg ':zoom')
+
+>
+
+:speaking_head: Apresentação - Faça Muito Mais com Data Science, C# e Rust **(Campus Party, São Paulo, 2019)**
+
+![](../assets/images/campusparty.jpg ':zoom')
+
+:speaking_head: Apresentação - Desafios da Construção de um Time de Futebol de Robôs **(CCOMP - Unifeso, Teresópolis, 2018)**
+
+![](../assets/images/unifeso.png ':zoom')
+
+>
+
+:speaking_head: Apresentação - Eliminando Gargalos de Processamento Utilizando Rust **(TechTalk - Braspag, Rio de Janeiro, 2018)**
+
+![](../assets/images/braspag-rust.jpeg ':zoom')
+
+>
+
+:speaking_head: Apresentação - Programação Assíncrona e Paralelismo no WebAPI (C#) **(TechTalk - Braspag, Rio de Janeiro, 2018)**
+
+![](../assets/images/braspag-parallel.png ':zoom')
+
+### 2016
+
+:speaking_head: Apresentação - Construction of a Framework of Path Planning and Trajectory Control in Real Time of Multiple Robots **(WTDR - LARC, Recife, 2016)**
+
+![](../assets/images/wtdr.jpg ':zoom')

@@ -34,3 +34,9 @@
 | 08/10/2016 | [Construção de um Framework de Planejamento e Controle de Trajetória em Tempo Real de Múltiplos Robôs Terrestres](https://github.com/johnfercher/software/blob/main/assets/docs/articles/wtdr.pdf)                         | WTDR - Workshop on Thesis and Dissertation in Robotics | :brazil: |
 | 01/01/2015 | [Construção de um Time de Futebol de Robôs Para a Categoria IEEE Very Small Size Soccer](https://github.com/johnfercher/software/blob/main/assets/docs/articles/tcc.pdf)                                                   |                TCC - FAETERJ-Petrópolis                | :brazil: |
 | 2013~2016  | [SIRLab TDPs (Team Description Papers)](https://github.com/johnfercher/software/tree/main/assets/docs/articles/tdps)                                                                                                       |       LARC - Latin American Robotics Competition       | :brazil: |
+
+## Vídeos
+
+| Data | Título                                                                                                | Instituição |
+|------|-------------------------------------------------------------------------------------------------------|:-----------:|
+| 2017 | [Multiple Path Planning](https://www.youtube.com/watch?v=hC82QWQrvUo)                                 |     IME     |
