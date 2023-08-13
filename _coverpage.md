@@ -2,7 +2,7 @@
 
 # John Fercher <small>Resume</small>
 
-[GitHub](https://github.com/johnfercher)
+[Linkedin](https://www.linkedin.com/in/johnathan-fercher/)
 [Ver](README.md)
 
 ![](assets/images/bg.svg)
