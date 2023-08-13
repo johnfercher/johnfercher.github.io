@@ -1,8 +1,8 @@
 ![logo](assets/images/logo.png)
 
-# My Work <small></small>
+# John Fercher <small>Resume</small>
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](README.md)
+[GitHub](https://github.com/johnfercher)
+[Ver](README.md)
 
 ![](assets/images/bg.svg)

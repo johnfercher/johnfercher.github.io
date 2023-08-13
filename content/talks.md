@@ -1,6 +1,6 @@
 # Apresentações
 
-|  Data   | Title                                                                                                                                               |                         Event                          | Language |
+|  Data   | Título                                                                                                                                              |                         Evento                         |  Idioma  |
 |:-------:|-----------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------:|:--------:|
 | 03/2022 | [Um projeto open-source maroto](presentations/synctech-maroto.pdf)                                                                                  |                Mercado Livre - SyncTech                | :brazil: |
 | 11/2021 | [Domain-Driven Design: Uma Introdução](presentations/melitechday-ddd.pdf)                                                                           |              Mercado Livre - MeliTechDay               | :brazil: |
@@ -13,5 +13,5 @@
 | 05/2018 | [Desafios da Construção de um Time de Futebol de Robôs](presentations/ccomp.pdf)                                                                    |            Unifeso - CCOMP Talks (Robotics)            | :brazil: |
 | 02/2018 | [Programação Assíncrona e Paralelismo no WebAPI (C#)](presentations/braspag-async.pdf)                                                              |                   Braspag - TechTalk                   | :brazil: |
 | 01/2017 | [Construção de um Framework de Planejamento e Controle de Trajetória em Tempo Real de Múltiplos Robôs Terrestres](presentations/master-defense.pdf) |                IME - Defesa de Mestrado                | :brazil: |
-| 10/2016 | [Construction of a Framework of Path Planning and Trajectory Control in Real Time of Multiple Robots](presentations/wtdr.pdf)                       | WTDR - Workshop on Thesis and Dissertation in Robotics | :us: |
+| 10/2016 | [Construction of a Framework of Path Planning and Trajectory Control in Real Time of Multiple Robots](presentations/wtdr.pdf)                       | WTDR - Workshop on Thesis and Dissertation in Robotics |   :us:   |
 | 01/2016 | [Planejamento de Trajetória em Tempo Real de Múltiplos Robôs em Ambiente Semi-Estruturado](presentations/master-qualification.pdf)                  |              IME - Qualificação Mestrado               | :brazil: |
