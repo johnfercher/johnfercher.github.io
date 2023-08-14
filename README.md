@@ -13,14 +13,14 @@
 
 ## Experiência
 
-| Período      | Cargo                                    |      Empresa      |
-|--------------|------------------------------------------|:-----------------:|
-| 2023 ~ Atual | Engenheiro de Software Sênior            |      Gympass      |
-| 2022 ~ 2023  | Engenheiro de Software 2                 |       Uber        |
-| 2019 ~ 2022  | Analista Desenvolvedor Sênior            |   Mercado Livre   |
-| 2017 ~ 2019  | Analista Desenvolvedor Júnior            |      Braspag      |
-| 2014 ~ 2015  | Iniciação Científica                     |       LNCC        |
-| 2013 ~ 2014  | Estagiário de Pesquisa e Desenvolvimento | Allen Informática |
+| Período      | Cargo                                    |      Empresa      | Descrição                                                                                                                                                                                                                                                                                    |
+|--------------|------------------------------------------|:-----------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2023 ~ Atual | Engenheiro de Software Sênior            |      Gympass      |                                                                                                                                                                                                                                                                                              |
+| 2022 ~ 2023  | Engenheiro de Software 2                 |       Uber        | Na Uber, trabalhei no time de Ambient-Safety desenvolvendo features relacionadas a segurança como: Guest Rides, Women Rider Preferred, Pin Verification, Share Trip e Safemode.                                                                                                              |
+| 2019 ~ 2022  | Analista Desenvolvedor Sênior            |   Mercado Livre   | Trabalhei desenvolvendo microsserviços na unidade de negócio de entregas do Mercado Livre. O principal foco era prover soluções para possibilitar processos logísticos a ocorrerem. Os microsserviços que trabalhei possuiam um alto throughput e eram críticos para o processo de shipping. |
+| 2017 ~ 2019  | Analista Desenvolvedor Júnior            |      Braspag      | Durante minha experiência na Braspag trabalhei com o desenvolvimento de sistemas complementares a antifraude, o trabalho principal era baseado em desenvolver APIs REST para facilitar a integração com sistemas de antifraude como CyberSource e Red.                                       |
+| 2014 ~ 2015  | Iniciação Científica                     |       LNCC        | No LNCC, trabalhei no Laboratório de Ambientes Colaborativos e Multimídia Aplicada (ACiMA) com realidade virtual.                                                                                                                                                                            |
+| 2013 ~ 2014  | Estagiário de Pesquisa e Desenvolvimento | Allen Informática | Durante minha experiência na Allen Informática como estagiário no setor de pesquisa e desenvolvimento, trabalhei na construção de projetos Web utilizando o padrão MVC.                                                                                                                      |
 
 ## Educação
 
@@ -37,7 +37,7 @@
 | Inglês    | Intermediário |
 | Espanhol  | Intermediário |
 
-## Tecnologias
+## Conhecimentos
 
 |                                  |                                                                                                                                       |
 |----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
