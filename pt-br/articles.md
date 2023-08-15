@@ -1,0 +1,44 @@
+# Artigos
+
+## Série: Desenvolvimento de APIs em Go
+
+| Ordem |    Data    | Título                                                                                                                                                                                 | Fonte  |  Idioma  |
+|:-----:|:----------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------:|:--------:|
+|       | 19/06/2023 | [Sumário](https://medium.com/@johnfercher/desenvolvimento-de-apis-em-go-64f945b11d2b)                                                                                                  | Medium | :brazil: |
+|   1   | 19/06/2023 | [Go + Chi: Criando uma API simples](https://johnfercher.medium.com/go-chi-bb84f8bd401b)                                                                                                | Medium | :brazil: |
+|   2   | 19/06/2023 | [Go + Project Layout: Organizando a Casa](https://johnfercher.medium.com/go-project-layout-6fd0f47ec9c3)                                                                               | Medium | :brazil: |
+|   3   | 19/06/2023 | [Go + Docker: Dockerizando uma API](https://johnfercher.medium.com/go-docker-7ad3d0ab1933)                                                                                             | Medium | :brazil: |
+|   4   | 26/06/2023 | [Go + Repository + Command-Query Separation](https://johnfercher.medium.com/go-repository-command-query-separation-337d94ac4c4c)                                                       | Medium | :brazil: |
+|   5   | 26/06/2023 | [Go + MySQL: Docker-compose em ação](https://johnfercher.medium.com/go-mysql-8de1ce0abc8a)                                                                                             | Medium | :brazil: |
+|   6   | 26/06/2023 | [Go + GORM: O melhor ORM de Go](https://johnfercher.medium.com/go-gorm-368b718504e6)                                                                                                   | Medium | :brazil: |
+|   7   | 26/06/2023 | [Go + Injeção de Dependência: Árvore de Dependências, Inversão de Controle e Raiz de Composição](https://johnfercher.medium.com/go-inje%C3%A7%C3%A3o-de-depend%C3%AAncia-5fa4c2cb2d83) | Medium | :brazil: |
+|   8   | 03/07/2023 | [Go + Testes Unitários: Libs, Nomenclaturas, Padrão AAA, Wrappers e Organização](https://johnfercher.medium.com/go-testes-unit%C3%A1rios-f44d2e9399e6)                                 | Medium | :brazil: |
+|   9   | 03/07/2023 | [Go + Integração Contínua: Github Actions, Golangci-lint e Codecov](https://johnfercher.medium.com/go-integra%C3%A7%C3%A3o-cont%C3%ADnua-f7005dd822a1)                                 | Medium | :brazil: |
+|  10   | 10/03/2023 | [Go + Observabilidade: Métricas com o Prometheus ](https://johnfercher.medium.com/go-observabilidade-739b6d6b649c)                                                                     | Medium | :brazil: |
+|  11   | 17/03/2023 | [Grafana + Prometheus: Visualizando as Métricas de Nossa API](https://johnfercher.medium.com/go-grafana-2b1419f7a99d)                                                                  | Medium | :brazil: |
+
+## Todos os Artigos
+
+| Data       | Título                                                                                                                                                                                                                     |                         Fonte                          |  Idioma  |
+|------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------:|:--------:|
+| 05/11/2021 | [Planejamento de Trajetória de Múltiplos Robôs Terrestres Autônomos em Ambientes Dinâmicos](https://github.com/johnfercher/software/blob/main/assets/docs/articles/rmct.pdf)                                               |    RMCT - Revista Militar de Ciência de Tecnologia     | :brazil: |
+| 17/06/2021 | [Como Hackeamos um Jogo Para Adicionar uma Funcionalidade](https://johnathanfercher.medium.com/como-hackeamos-um-jogo-para-adicionar-uma-funcionalidade-80842f3764e0)                                                      |                         Medium                         | :brazil: |
+| 07/09/2019 | [Creating PDFs using Golang: The maroto project. Simple & fast. Bootstrap like.](https://medium.com/@johnathanfercher/creating-pdfs-using-golang-98b722e99d6d)                                                             |                         Medium                         |   :us:   |
+| 03/06/2019 | [Esquisitices de Go: Nil != Nil e mais umas coisas](https://medium.com/@johnathanfercher/esquisitices-de-go-a52548d1334f)                                                                                                  |                         Medium                         | :brazil: |
+| 11/04/2019 | [Gource Visualization](https://medium.com/@johnathanfercher/gource-visualization-6da173d103ef)                                                                                                                             |                         Medium                         | :brazil: |
+| 08/04/2019 | [mdBook: Uma Ferramenta Para Criar Documentações Utilizando Markdown](https://medium.com/@johnathanfercher/mdbook-uma-ferramenta-para-criar-documenta%C3%A7%C3%B5es-utilizando-markdown-c30c9dfa5c9f)                      |                         Medium                         | :brazil: |
+| 01/02/2019 | [MySQL + Docker](https://medium.com/@johnathanfercher/mysql-docker-7ff6d50d6cf1)                                                                                                                                           |                         Medium                         | :brazil: |
+| 02/04/2018 | [Modern C++ Development](https://medium.com/@johnathanfercher/modern-c-development-dbe71ee5e969)                                                                                                                           |                         Medium                         | :brazil: |
+| 02/02/2018 | [O Desespero de Desenvolver Softwares no Mundo Acadêmico](https://medium.com/@johnathanfercher/o-desespero-de-desenvolver-softwares-no-mundo-acad%C3%AAmico-2dc90bd7971a)                                                  |                         Medium                         | :brazil: |
+| 04/10/2017 | [Uma Abordagem Generalista Para o Problema de Planejamento e Controle de Trajetória de Múltiplos Robôs Terrestres em Ambientes Dinâmicos](https://github.com/johnfercher/software/blob/main/assets/docs/articles/sbai.pdf) |  SBAI - Simpósio Brasileiro de Automação Inteligente   | :brazil: |
+| 08/10/2016 | [Construção de um Framework de Planejamento e Controle de Trajetória em Tempo Real de Múltiplos Robôs Terrestres](https://github.com/johnfercher/software/blob/main/assets/docs/articles/wtdr.pdf)                         | WTDR - Workshop on Thesis and Dissertation in Robotics | :brazil: |
+| 01/01/2015 | [Construção de um Time de Futebol de Robôs Para a Categoria IEEE Very Small Size Soccer](https://github.com/johnfercher/software/blob/main/assets/docs/articles/tcc.pdf)                                                   |                TCC - FAETERJ-Petrópolis                | :brazil: |
+| 2013~2016  | [SIRLab TDPs (Team Description Papers)](https://github.com/johnfercher/software/tree/main/assets/docs/articles/tdps)                                                                                                       |       LARC - Latin American Robotics Competition       | :brazil: |
+
+## Vídeos
+
+<iframe width="560" height="560" src="https://www.youtube.com/embed/tOGAPF54ZKU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="560" src="https://www.youtube.com/embed/hC82QWQrvUo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="560" src="https://www.youtube.com/embed/-49vcq_C0f0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

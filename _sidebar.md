@@ -1,7 +1,7 @@
-* [Currículo](README.md)
-  * [Open-source](/content/opensource.md)
-  * [Artigos](/content/articles.md?id=meus-artigos)
-  * [Apresentações](/content/talks.md?id=apresentações)
-  * [Honras e Prêmios](/content/prizes.md?id=honras-e-prêmios)
-  * [Trabalhos Voluntários](/content/volunteer.md?id=trabalhos-voluntários)
+* [Resume](README.md?id=resume)
+  * [Open-source](/opensource.md?id=open-source-contributions)
+  * [Articles](/articles.md?id=meus-artigos)
+  * [Talks](/talks.md?id=talks)
+  * [Honors & Awards](/prizes.md?id=honors-amp-awards)
+  * [Volunteer Work](/volunteer.md?id=volunteer-work)
 

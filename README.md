@@ -1,9 +1,9 @@
-# Currículo
+# Resume
 
-* [Português :brazil:](https://github.com/johnfercher/software/blob/main/assets/docs/resumes/portuguese.pdf)
-* [English :us:](https://github.com/johnfercher/software/blob/main/assets/docs/resumes/english.pdf)
+* [English (PDF)](https://github.com/johnfercher/software/blob/main/assets/docs/resumes/english.pdf) :us:
+* [Portuguese (PDF)](https://github.com/johnfercher/software/blob/main/assets/docs/resumes/portuguese.pdf) :brazil:
 
-## Redes Sociais
+## Social Networks
 
 [![logo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/johnfercher)
 [![logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnathan-fercher/)
@@ -11,40 +11,40 @@
 [![logo](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7805948/johnathan-fercher)
 [![logo](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/jfercher)
 
-## Experiência
+## Experience
 
-| Período      | Cargo                                    |      Empresa      | Descrição                                                                                                                                                                                                                                                                                    |
-|--------------|------------------------------------------|:-----------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2023 ~ Atual | Engenheiro de Software Sênior            |      Gympass      |                                                                                                                                                                                                                                                                                              |
-| 2022 ~ 2023  | Engenheiro de Software 2                 |       Uber        | Na Uber, trabalhei no time de Ambient-Safety desenvolvendo features relacionadas a segurança como: Guest Rides, Women Rider Preferred, Pin Verification, Share Trip e Safemode.                                                                                                              |
-| 2019 ~ 2022  | Analista Desenvolvedor Sênior            |   Mercado Livre   | Trabalhei desenvolvendo microsserviços na unidade de negócio de entregas do Mercado Livre. O principal foco era prover soluções para possibilitar processos logísticos a ocorrerem. Os microsserviços que trabalhei possuiam um alto throughput e eram críticos para o processo de shipping. |
-| 2017 ~ 2019  | Analista Desenvolvedor Júnior            |      Braspag      | Durante minha experiência na Braspag trabalhei com o desenvolvimento de sistemas complementares a antifraude, o trabalho principal era baseado em desenvolver APIs REST para facilitar a integração com sistemas de antifraude como CyberSource e Red.                                       |
-| 2014 ~ 2015  | Iniciação Científica                     |       LNCC        | No LNCC, trabalhei no Laboratório de Ambientes Colaborativos e Multimídia Aplicada (ACiMA) com realidade virtual.                                                                                                                                                                            |
-| 2013 ~ 2014  | Estagiário de Pesquisa e Desenvolvimento | Allen Informática | Durante minha experiência na Allen Informática como estagiário no setor de pesquisa e desenvolvimento, trabalhei na construção de projetos Web utilizando o padrão MVC.                                                                                                                      |
+| Period       | Role                                 |      Company      | Description                                                                                                                                                                                                                                                                     |   Languages   |
+|--------------|--------------------------------------|:-----------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------:|
+| 2023 ~ Today | Senior Software Engineer             |      Gympass      |                                                                                                                                                                                                                                                                                 | :us: :brazil: |
+| 2022 ~ 2023  | Software Engineer 2                  |       Uber        | I worked in Ambient Safety team developing features related to safety as: Guest Rides, Women Rider Preferred, Pin Verification, Share Trip and Safemode.                                                                                                                        | :us: :brazil: |
+| 2019 ~ 2022  | Senior Analyst Developer             |   Mercado Libre   | I worked developing microservices in the shipping business unit of Mercado Libre. Our main focus was provide solutions to allow/help logistic processes to happen. The microservices which I used to work with had a high throughput and were critical to the shipping process. | :es: :brazil: |
+| 2017 ~ 2019  | Junior Analyst Developer             |      Braspag      | I worked at Braspag developing complementary systems to antifraud, the mainly work was based on the development of REST APIs to facilitate integration with antifraud systems as Cybersource and Red.                                                                           |   :brazil:    |
+| 2014 ~ 2015  | Scientific Internship                |       LNCC        | In the LNCC, I worked at Laboratory of Collaborative Environments and Applied Multimedia (ACiMA) with virtual reality.                                                                                                                                                          |   :brazil:    |
+| 2013 ~ 2014  | Traineer of Research and Development | Allen Informática | During my experience at Allen Informática as Traineer in the sector of Research and Development, I worked in the construction of web projects using the MVC pattern.                                                                                                            |   :brazil:    |
 
-## Educação
+## Education
 
-| Período     | Formação                                           | Instituição                           | Trabalho Final                                                                                                  |
-|-------------|----------------------------------------------------|---------------------------------------|-----------------------------------------------------------------------------------------------------------------|
-| 2015 ~ 2017 | Mestre em Robótica                                 | IME - Instituto Militar de Engenharia | Construção de um Framework de Planejamento e Controle de Trajetória em Tempo Real de Múltiplos Robôs Terrestres |
-| 2012 ~ 2015 | Tecnólogo em Tecnologia da Informação e Comunicação | FAETERJ Petrópolis                    | Construção de um Time de Futebol de Robôs Para a Categoria IEEE Very Small Size Soccer                          |
+| Period     | Education                                                | Institute                                | Main Work                                                                                           |
+|-------------|----------------------------------------------------------|------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| 2015 ~ 2017 | **M.Sc.** in Robotics                                    | IME - Military Institute of Engineering  | Construction of a Framework of Path Planning and Trajectory Control in Real Time of Multiple Robots |
+| 2012 ~ 2015 | **B.Tech.** in Information and Communications Technology | FAETERJ Petrópolis                       | Construction of a robot soccer team to the category IEEE Very Small Size Soccer                     |
 
-## Idiomas
+## Languages
 
-| Idioma    | Nível         |
-|-----------|---------------|
-| Português | Nativo        |
-| Inglês    | Intermediário |
-| Espanhol  | Intermediário |
+| Language |    Level     |
+|:--------:|:------------:|
+| :brazil: |    Native    |
+|   :us:   | Intermediate |
+|   :es:   | Intermediate |
 
-## Conhecimentos
+## Knowledge
 
-|                                  |                                                                                                                                       |
-|----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| Linguagens                       | Go, Kotlin, C#, C++, Rust, C, JavaScript e Python                                                                                     |
-| Sistemas Operacionais            | Linux, macOS e Windows                                                                                                                |
-| Bancos de Dados                  | MySQL, ElasticSearch, DynamoDB e SQLServer                                                                                            |
-| Observabilidade                  | Datadog, Kibana, NewRelic, Prometheus, Grafana, Jaeger e Loki                                                                         |
-| Metodologias, Padrões e Práticas | Programação Orientada a Objetos, SOLID, Padrões, Microsserviços, Domain-Driven Design, Arquitetura de Software e Testes Automatizados |
-| Comunicação de Microsserviços    | REST, gRPC, RabbitMQ e Kafka                                                                                                          |
-| Plataformas e Infra              | Jira, Slack, Git/Github, Docker,                                                                                                      |
+|                                     |                                                                                                                                     |
+|-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| Programming Languages               | Go, Kotlin, C#, C++, Rust, C, ShellScript, JavaScript and Python                                                                    |
+| Operating Systems                   | Linux, macOS and Windows                                                                                                            |
+| Databases                           | MySQL, ElasticSearch, DynamoDB and SQLServer                                                                                        |
+| Observability                       | Datadog, Kibana, NewRelic, Prometheus, Grafana, Jaeger and Loki                                                                     |
+| Methodologies, Patterns e Practices | Object-Oriented Programming, SOLID, Design Patterns, Microservices, Domain-Driven Design, Software Architecture and Automated Tests |
+| Microservices Communication         | REST, gRPC, RabbitMQ and Kafka                                                                                                      |
+| Platforms and Infrastructure        | Jira, Slack, Git/Github, Docker and Shell                                                                                           |

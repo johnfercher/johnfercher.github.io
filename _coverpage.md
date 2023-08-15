@@ -3,6 +3,6 @@
 # John Fercher <small>Resume</small>
 
 [Linkedin](https://www.linkedin.com/in/johnathan-fercher/)
-[Ver](README.md)
+[See](README.md)
 
 ![](assets/images/bg.svg)

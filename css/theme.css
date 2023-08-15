@@ -101,12 +101,13 @@ li input[type=checkbox]{
 }
 .app-nav>a{
     margin:0 1rem;
-    padding:5px 0
+    padding:5px 0;
 }
 .app-nav li,.app-nav ul{
     display:inline-block;
     list-style:none;
-    margin:0
+    margin:0;
+    color:var(--theme-color,#42b983);
 }
 .app-nav a{
     color:inherit;
@@ -114,11 +115,15 @@ li input[type=checkbox]{
     text-decoration:none;
     transition:color .3s
 }
-.app-nav a.active,.app-nav a:hover{
-    color:#42b983;
-    color:var(--theme-color,#42b983)
+.app-nav a:hover{
+    color:var(--seconday-color,#42b983);
+    border-bottom:2px solid #42b983;
+    border-bottom:2px solid var(--seconday-color,#42b983);
+    background: #041230;
+    opacity: 1;
 }
 .app-nav a.active{
+    color:var(--theme-color,#42b983);
     border-bottom:2px solid #42b983;
     border-bottom:2px solid var(--theme-color,#42b983)
 }

@@ -1,8 +1,8 @@
-# Meus Artigos
+# Articles
 
-## Série: Desenvolvimento de APIs em Go
+## Series: Developing APIs using Go
 
-| Ordem |    Data    | Artigo                                                                                                                                                                                 | Fonte  |  Idioma  |
+| Order |    Date    | Title                                                                                                                                                                                  | Source | Language |
 |:-----:|:----------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------:|:--------:|
 |       | 19/06/2023 | [Sumário](https://medium.com/@johnfercher/desenvolvimento-de-apis-em-go-64f945b11d2b)                                                                                                  | Medium | :brazil: |
 |   1   | 19/06/2023 | [Go + Chi: Criando uma API simples](https://johnfercher.medium.com/go-chi-bb84f8bd401b)                                                                                                | Medium | :brazil: |
@@ -17,9 +17,9 @@
 |  10   | 10/03/2023 | [Go + Observabilidade: Métricas com o Prometheus ](https://johnfercher.medium.com/go-observabilidade-739b6d6b649c)                                                                     | Medium | :brazil: |
 |  11   | 17/03/2023 | [Grafana + Prometheus: Visualizando as Métricas de Nossa API](https://johnfercher.medium.com/go-grafana-2b1419f7a99d)                                                                  | Medium | :brazil: |
 
-## Todos os Artigos
+## All Articles
 
-| Data       | Artigo                                                                                                                                                                                                                     |                         Fonte                          |  Idioma  |
+| Date       | Title                                                                                                                                                                                                                      |                         Source                         | Language |
 |------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------:|:--------:|
 | 05/11/2021 | [Planejamento de Trajetória de Múltiplos Robôs Terrestres Autônomos em Ambientes Dinâmicos](https://github.com/johnfercher/software/blob/main/assets/docs/articles/rmct.pdf)                                               |    RMCT - Revista Militar de Ciência de Tecnologia     | :brazil: |
 | 17/06/2021 | [Como Hackeamos um Jogo Para Adicionar uma Funcionalidade](https://johnathanfercher.medium.com/como-hackeamos-um-jogo-para-adicionar-uma-funcionalidade-80842f3764e0)                                                      |                         Medium                         | :brazil: |
@@ -35,7 +35,7 @@
 | 01/01/2015 | [Construção de um Time de Futebol de Robôs Para a Categoria IEEE Very Small Size Soccer](https://github.com/johnfercher/software/blob/main/assets/docs/articles/tcc.pdf)                                                   |                TCC - FAETERJ-Petrópolis                | :brazil: |
 | 2013~2016  | [SIRLab TDPs (Team Description Papers)](https://github.com/johnfercher/software/tree/main/assets/docs/articles/tdps)                                                                                                       |       LARC - Latin American Robotics Competition       | :brazil: |
 
-## Vídeos
+## Videos
 
 <iframe width="560" height="560" src="https://www.youtube.com/embed/tOGAPF54ZKU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
