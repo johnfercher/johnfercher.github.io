@@ -108,10 +108,11 @@ li input[type=checkbox]{
     list-style:none;
     margin:0;
     color:var(--theme-color,#42b983);
+    font-weight: bold;
 }
 .app-nav a{
     color:inherit;
-    font-size:16px;
+    font-size:18px;
     text-decoration:none;
     transition:color .3s
 }
@@ -120,7 +121,6 @@ li input[type=checkbox]{
     border-bottom:2px solid #42b983;
     border-bottom:2px solid var(--seconday-color,#42b983);
     background: #041230;
-    opacity: 1;
 }
 .app-nav a.active{
     color:var(--theme-color,#42b983);
@@ -548,13 +548,14 @@ section.cover ul{
 }
 section.cover .cover-main>p:last-child a{
     border-radius:2rem;
-    border:1px solid #42b983;
+    border:2px solid #42b983;
     border-color:var(--theme-color,#42b983);
     box-sizing:border-box;
     color:#42b983;
     color:var(--theme-color,#42b983);
     display:inline-block;
     font-size:1.05rem;
+    font-weight: bold;
     letter-spacing:.1rem;
     margin:.5rem 1rem;
     padding:.75em 2rem;
