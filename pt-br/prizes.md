@@ -9,6 +9,6 @@
 
 ## Fotos
 
-:computer: Engenheiro - SIRLab  **(LARC, 2014)**
+:computer: Engenheiro - Troféu de Vice-Campeão SIRLab  **(LARC, 2014)**
 
-![](assets/images/trophy.png ':zoom')
+![](../assets/images/trophy.png ':zoom')

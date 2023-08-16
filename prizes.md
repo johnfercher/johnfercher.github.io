@@ -9,6 +9,6 @@
 
 ## Photos
 
-:computer: Engenheiro - SIRLab  **(LARC, 2014)**
+:computer: Engineer - Runner-up trophy SIRLab  **(LARC, 2014)**
 
 ![](assets/images/trophy.png ':zoom')
