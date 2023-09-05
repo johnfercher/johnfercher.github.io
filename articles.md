@@ -14,8 +14,9 @@
 |   7   | 26/06/2023 | [Go + Injeção de Dependência: Árvore de Dependências, Inversão de Controle e Raiz de Composição](https://johnfercher.medium.com/go-inje%C3%A7%C3%A3o-de-depend%C3%AAncia-5fa4c2cb2d83) | Medium | :brazil: |
 |   8   | 03/07/2023 | [Go + Testes Unitários: Libs, Nomenclaturas, Padrão AAA, Wrappers e Organização](https://johnfercher.medium.com/go-testes-unit%C3%A1rios-f44d2e9399e6)                                 | Medium | :brazil: |
 |   9   | 03/07/2023 | [Go + Integração Contínua: Github Actions, Golangci-lint e Codecov](https://johnfercher.medium.com/go-integra%C3%A7%C3%A3o-cont%C3%ADnua-f7005dd822a1)                                 | Medium | :brazil: |
-|  10   | 10/03/2023 | [Go + Observabilidade: Métricas com o Prometheus ](https://johnfercher.medium.com/go-observabilidade-739b6d6b649c)                                                                     | Medium | :brazil: |
-|  11   | 17/03/2023 | [Grafana + Prometheus: Visualizando as Métricas de Nossa API](https://johnfercher.medium.com/go-grafana-2b1419f7a99d)                                                                  | Medium | :brazil: |
+|  10   | 10/08/2023 | [Go + Observabilidade: Métricas com o Prometheus ](https://johnfercher.medium.com/go-observabilidade-739b6d6b649c)                                                                     | Medium | :brazil: |
+|  11   | 17/08/2023 | [Grafana + Prometheus: Visualizando as Métricas de Nossa API](https://johnfercher.medium.com/go-grafana-2b1419f7a99d)                                                                  | Medium | :brazil: |
+|  12   | 04/10/2023 | [Domain-Driven Design (Parte I) - Subdomínios, Linguagem Ubíqua e Modelo de Domínio](https://johnfercher.medium.com/domain-driven-design-parte-i-71da49abaeef)                                           | Medium | :brazil: |
 
 ## All Articles
 
