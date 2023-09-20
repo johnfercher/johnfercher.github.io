@@ -1,5 +1,8 @@
 # Resume
 
+[![Visits Badge](https://badges.pufler.dev/visits/johnfercher/resume)](https://badges.pufler.dev)
+
+
 * [English (PDF)](https://github.com/johnfercher/software/blob/main/assets/docs/resumes/english.pdf) :us:
 * [Portuguese (PDF)](https://github.com/johnfercher/software/blob/main/assets/docs/resumes/portuguese.pdf) :brazil:
 
