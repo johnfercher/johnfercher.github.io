@@ -17,7 +17,8 @@
 |  10   | 10/08/2023 | [Go + Observabilidade: Métricas com o Prometheus ](https://johnfercher.medium.com/go-observabilidade-739b6d6b649c)                                                                     | Medium | :brazil: |
 |  11   | 17/08/2023 | [Grafana + Prometheus: Visualizando as Métricas de Nossa API](https://johnfercher.medium.com/go-grafana-2b1419f7a99d)                                                                  | Medium | :brazil: |
 |  12   | 04/10/2023 | [Domain-Driven Design (Parte I) - Subdomínios, Linguagem Ubíqua e Modelo de Domínio](https://johnfercher.medium.com/domain-driven-design-parte-i-71da49abaeef)                         | Medium | :brazil: |
-|  13   | 25/06/2024 | [Go + Arquitetura Hexagonal - Isolando o domínio e outras coisas mais](https://medium.com/@johnfercher/go-arquitetura-hexagonal-dbcd2e986b55)                                          | Medium | :brazil: |
+|  13   | 25/07/2024 | [Go + Arquitetura Hexagonal - Isolando o domínio e outras coisas mais](https://medium.com/@johnfercher/go-arquitetura-hexagonal-dbcd2e986b55)                                          | Medium | :brazil: |
+|  14   | 08/08/2024 | [Go + Architecture Linter - Mantendo a arquitetura](https://medium.com/@johnfercher/go-architecture-linter-6cd238beb704)                                                               | Medium | :brazil: |
 
 ## Todos os Artigos
 
