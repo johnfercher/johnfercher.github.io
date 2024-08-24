@@ -19,6 +19,8 @@
 |  12   | 04/10/2023 | [Domain-Driven Design (Parte I) - Subdomínios, Linguagem Ubíqua e Modelo de Domínio](https://johnfercher.medium.com/domain-driven-design-parte-i-71da49abaeef)                         | Medium | :brazil: |
 |  13   | 25/07/2024 | [Go + Arquitetura Hexagonal - Isolando o domínio e outras coisas mais](https://medium.com/@johnfercher/go-arquitetura-hexagonal-dbcd2e986b55)                                          | Medium | :brazil: |
 |  14   | 08/08/2024 | [Go + Architecture Linter - Mantendo a arquitetura](https://medium.com/@johnfercher/go-architecture-linter-6cd238beb704)                                                               | Medium | :brazil: |
+|  15   | 22/08/2024 | [Go + gRPC - Utilizando protobuf](https://johnfercher.medium.com/go-grpc-7479dca58153)                                                                                                 | Medium | :brazil: |
+
 
 ## Todos os Artigos
 
