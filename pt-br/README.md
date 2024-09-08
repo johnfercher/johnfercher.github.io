@@ -5,8 +5,9 @@
 
 ## Redes Sociais
 
-[![logo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/johnfercher)
 [![logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnathan-fercher/)
+[![logo](https://img.shields.io/badge/Threads-090909?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@john_fercher)
+[![logo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/johnfercher)
 [![logo](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@johnfercher)
 
 ## Experiência
