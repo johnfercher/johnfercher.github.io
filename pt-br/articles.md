@@ -20,7 +20,8 @@
 |  13   | 25/07/2024 | [Go + Arquitetura Hexagonal - Isolando o domínio e outras coisas mais](https://medium.com/@johnfercher/go-arquitetura-hexagonal-dbcd2e986b55)                                          | Medium | :brazil: |
 |  14   | 08/08/2024 | [Go + Architecture Linter - Mantendo a arquitetura](https://medium.com/@johnfercher/go-architecture-linter-6cd238beb704)                                                               | Medium | :brazil: |
 |  15   | 22/08/2024 | [Go + gRPC - Utilizando protobuf](https://johnfercher.medium.com/go-grpc-7479dca58153)                                                                                                 | Medium | :brazil: |
-|  16   | 06/09/2024 | [gRPC + Prometheus - Métricas no Grafana com interceptors](https://johnfercher.medium.com/grpc-prometheus-1ac4c04d0d35)                                                                | Medium | :brazil: |
+|  16   | 05/09/2024 | [gRPC + Prometheus - Métricas no Grafana com interceptors](https://johnfercher.medium.com/grpc-prometheus-1ac4c04d0d35)                                                                | Medium | :brazil: |
+|  17   | 19/09/2024 | [Go + Neo4j - Modelando o Brasil em Grafos](https://medium.com/@johnfercher/go-neo4j-4e6a68e15791)                                                                                     | Medium | :brazil: |
 
 
 ## Todos os Artigos
