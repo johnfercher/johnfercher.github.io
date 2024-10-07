@@ -2,6 +2,7 @@
 
 |  Data   | Título                                                                                                                                                                                                  |                         Evento                         |  Idioma  |
 |:-------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------:|:--------:|
+| 10/2024 | [Arquitetura Hexagonal em Go](https://docs.google.com/presentation/d/1FeDx1psYBnEpve9upjkP-kpU7XI9OPqD8JAqsWhdrsI/edit?usp=sharing)                                                                     |               GitTogether - Mercado Livre              | :brazil: |
 | 11/2023 | [Maroto V2](https://github.com/johnfercher/resume/blob/main/assets/docs/talks/maroto-v2.pdf)                                                                                                            |                Mercado Livre - SyncTech                | :brazil: |
 | 11/2023 | [Golden Metrics With Prometheus and Grafana + Datadog](https://github.com/johnfercher/resume/blob/main/assets/docs/talks/golden-metrics.pdf)                                                            |               Gympass - Partners Meetup                | :brazil: |
 | 10/2023 | [As Muitas Camadas de Qualidade de Software](https://docs.google.com/presentation/d/1XQLQaD9T4eJtUGeAfvrCQexyZAfvgY_MR03xbKKZKk0/edit?usp=sharing)                                                      |        Unifeso - CCOMP Talks (Computer Science)        | :brazil: |
@@ -19,13 +20,13 @@
 | 10/2016 | [Construction of a Framework of Path Planning and Trajectory Control in Real Time of Multiple Robots](https://github.com/johnfercher/resume/blob/main/assets/docs/talks/wtdr.pdf)                       | WTDR - Workshop on Thesis and Dissertation in Robotics |   :us:   |
 | 01/2016 | [Planejamento de Trajetória em Tempo Real de Múltiplos Robôs em Ambiente Semi-Estruturado](https://github.com/johnfercher/resume/blob/main/assets/docs/talks/master-qualification.pdf)                  |              IME - Qualificação Mestrado               | :brazil: |
 
-## Vídeos
-
-<iframe width="560" height="560" src="https://www.youtube.com/embed/JCF_ZaydGuo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<iframe width="560" height="560" src="https://www.youtube.com/embed/Gbz3Rt7BRnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ## Fotos
+
+### 2024
+:speaking_head: Arquitetura Hexagonal em Go **(GitTogether, Mercado Libre, 2022)**
+
+![](../assets/images/gittogether1.jpeg ':zoom')
+![](../assets/images/gittogether2.jpeg ':zoom')
 
 ### 2022
 :speaking_head: Apresentação - Um projeto open-source maroto **(SyncTech - Mercado Livre, Remoto, 2022)**
@@ -83,3 +84,9 @@
 :speaking_head: Apresentação - Construction of a Framework of Path Planning and Trajectory Control in Real Time of Multiple Robots **(WTDR - LARC, Recife, 2016)**
 
 ![](../assets/images/wtdr.jpg ':zoom')
+
+## Vídeos
+
+<iframe width="560" height="560" src="https://www.youtube.com/embed/JCF_ZaydGuo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="560" src="https://www.youtube.com/embed/Gbz3Rt7BRnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
