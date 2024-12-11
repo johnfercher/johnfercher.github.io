@@ -17,7 +17,8 @@
 
 | Period       | Role                                 |      Company      | Description                                                                                                                                                                                                                                                                     |   Languages   |
 |--------------|--------------------------------------|:-----------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------:|
-| 2024 ~ Today | Tech Lead                            |   Mercado Libre   |                                                                                                                                                                                                                                                                                 | :es: :brazil: |
+| 2024 ~ Today | Senior Software Engineer             | FOX through Kake  |                                                                                                                                                                                                                                                                                 |     :us:      |
+| 2024 ~ 2024  | Tech Lead (Staff Software Engineer)  |   Mercado Libre   | I worked as a Tech Lead of FOS-In team to warranty delivery of high critical business goals with high quality standards, developing key features, discussing high level architecture and improving team technical knowledge.                                                    | :es: :brazil: |
 | 2023 ~ 2023  | Senior Software Engineer             |      Gympass      | I worked in PACE Squad working on critical products as: Checkin and Booking features                                                                                                                                                                                            | :us: :brazil: |
 | 2022 ~ 2023  | Software Engineer 2                  |       Uber        | I worked in Ambient Safety team developing features related to safety as: Guest Rides, Women Rider Preferred, Pin Verification, Share Trip and Safemode.                                                                                                                        | :us: :brazil: |
 | 2019 ~ 2022  | Senior Analyst Developer             |   Mercado Libre   | I worked developing microservices in the shipping business unit of Mercado Libre. Our main focus was provide solutions to allow/help logistic processes to happen. The microservices which I used to work with had a high throughput and were critical to the shipping process. | :es: :brazil: |
@@ -27,10 +28,10 @@
 
 ## Education
 
-| Period     | Education                                                | Institute                                | Main Work                                                                                           |
-|-------------|----------------------------------------------------------|------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| 2015 ~ 2017 | **M.Sc.** in Robotics                                    | IME - Military Institute of Engineering  | Construction of a Framework of Path Planning and Trajectory Control in Real Time of Multiple Robots |
-| 2012 ~ 2015 | **B.Tech.** in Information and Communications Technology | FAETERJ Petrópolis                       | Construction of a robot soccer team to the category IEEE Very Small Size Soccer                     |
+| Period      | Education                                                | Institute                               | Main Work                                                                                           |
+|-------------|----------------------------------------------------------|-----------------------------------------|-----------------------------------------------------------------------------------------------------|
+| 2015 ~ 2017 | **M.Sc.** in Robotics                                    | IME - Military Institute of Engineering | Construction of a Framework of Path Planning and Trajectory Control in Real Time of Multiple Robots |
+| 2012 ~ 2015 | **B.Tech.** in Information and Communications Technology | FAETERJ Petrópolis                      | Construction of a robot soccer team to the category IEEE Very Small Size Soccer                     |
 
 ## Languages
 

@@ -22,6 +22,7 @@
 |  15   | 22/08/2024 | [Go + gRPC - Utilizando protobuf](https://johnfercher.medium.com/go-grpc-7479dca58153)                                                                                                 | Medium | :brazil: |
 |  16   | 05/09/2024 | [gRPC + Prometheus - Métricas no Grafana com interceptors](https://johnfercher.medium.com/grpc-prometheus-1ac4c04d0d35)                                                                | Medium | :brazil: |
 |  17   | 19/09/2024 | [Go + Neo4j - Modelando o Brasil em Grafos](https://medium.com/@johnfercher/go-neo4j-4e6a68e15791)                                                                                     | Medium | :brazil: |
+|  18   | 03/10/2024 | [Neo4j + GDS - Encontrando caminhos mais rápidos e mais baratos](https://medium.com/@johnfercher/neo4j-gds-1471c2820e88)                                                               | Medium | :brazil: |
 
 
 ## Todos os Artigos
